@@ -8,6 +8,7 @@
 void setup() 
 {
 	pinMode(8, HIGH);
+	int i = 5;
 }
 
 // the loop function runs over and over again until power down or reset
